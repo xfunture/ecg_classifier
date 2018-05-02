@@ -1,0 +1,23 @@
+.DS_Store
+
+#ipython notebooks
+*.ipynb
+
+*.pem
+
+# pkl
+*.pkl
+*.p
+*.pyc
+
+#raw data
+/data
+/models
+/results
+!/data/.keep
+!/models/.keep
+!/results/.keep
+
+#doc
+doc/
+/.idea
